@@ -1,6 +1,6 @@
 # cortical-neurons-mnist
 
-A small feed-forward BCPNN (Bayesian Confidence Propagation Neural Network) that classifies MNIST digits using only local Hebbian-Bayesian learning. There is no backpropagation and no gradient anywhere.
+A small feed-forward BCPNN (Bayesian Confidence Propagation Neural Network) that classifies MNIST digits using only local Hebbian-Bayesian learning. No backpropagation and no gradient decent.
 
 ## Model
 
